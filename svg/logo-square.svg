@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>logo d flattened</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo-d-flattened" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="logo-frame" fill="#000000" x="0" y="0" width="80" height="80"></rect>
+            <path d="M50.16,39.32 L79.99972,72.931 L79.99972,79.96 L63.2,79.96 L38.65672,52.27712 L50.16,39.32 Z" id="mountain-right" fill="#FFFFFF"></path>
+            <path d="M15.64,31.64 L58.48,79.96 L-4.51194637e-13,79.96 L-4.51194637e-13,49.281 L15.64,31.64 Z" id="mountain-left" fill="#FFFFFF"></path>
+            <path d="M58.56,11.52 C58.56,16.9544819 62.9655181,21.36 68.4,21.36 C70.2829591,21.36 72.0423902,20.8311135 73.5378432,19.9137906 C71.9211387,23.9495258 67.9734513,26.8 63.36,26.8 C57.3069591,26.8 52.4,21.8930409 52.4,15.84 C52.4,10.6353579 56.0278303,6.27804103 60.8927035,5.15883675 C59.4375493,6.87402798 58.56,9.09453267 58.56,11.52 Z" id="moon" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

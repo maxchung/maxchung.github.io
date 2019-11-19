@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Medium.eot');
+    src: url('MADEEvolveSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MADEEvolveSans-Medium.woff2') format('woff2'),
+        url('MADEEvolveSans-Medium.woff') format('woff'),
+        url('MADEEvolveSans-Medium.ttf') format('truetype'),
+        url('MADEEvolveSans-Medium.svg#MADEEvolveSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Bold.eot');
+    src: url('MADEEvolveSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MADEEvolveSans-Bold.woff2') format('woff2'),
+        url('MADEEvolveSans-Bold.woff') format('woff'),
+        url('MADEEvolveSans-Bold.ttf') format('truetype'),
+        url('MADEEvolveSans-Bold.svg#MADEEvolveSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Light.eot');
+    src: url('MADEEvolveSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('MADEEvolveSans-Light.woff2') format('woff2'),
+        url('MADEEvolveSans-Light.woff') format('woff'),
+        url('MADEEvolveSans-Light.ttf') format('truetype'),
+        url('MADEEvolveSans-Light.svg#MADEEvolveSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans.eot');
+    src: url('MADEEvolveSans.eot?#iefix') format('embedded-opentype'),
+        url('MADEEvolveSans.woff2') format('woff2'),
+        url('MADEEvolveSans.woff') format('woff'),
+        url('MADEEvolveSans.ttf') format('truetype'),
+        url('MADEEvolveSans.svg#MADEEvolveSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans';
+    src: url('MADEEvolveSans-Thin.eot');
+    src: url('MADEEvolveSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MADEEvolveSans-Thin.woff2') format('woff2'),
+        url('MADEEvolveSans-Thin.woff') format('woff'),
+        url('MADEEvolveSans-Thin.ttf') format('truetype'),
+        url('MADEEvolveSans-Thin.svg#MADEEvolveSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

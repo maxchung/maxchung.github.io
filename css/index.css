@@ -1,0 +1,49 @@
+.project #hole2 rect:nth-of-type(2), .project #hole2 rect:nth-of-type(3), .project #hole2 rect:nth-of-type(4) {
+  x: 38.7%;
+  width: 61.3%;
+  height: 33.3333%; }
+
+.project #hole2 rect:nth-of-type(2) {
+  y: 0%; }
+
+.project #hole2 rect:nth-of-type(3) {
+  y: 33.3333%; }
+
+.project #hole2 rect:nth-of-type(4) {
+  y: 66.6666%; }
+
+.project #hole rect:nth-of-type(2), .project #hole rect:nth-of-type(3), .project #hole rect:nth-of-type(4) {
+  x: 38.7%;
+  width: 61.3%;
+  height: 33.3333%; }
+
+.project #hole rect:nth-of-type(2) {
+  y: 0%; }
+
+.project #hole rect:nth-of-type(3) {
+  y: 33.3333%; }
+
+.project #hole rect:nth-of-type(4) {
+  y: 66.6666%; }
+
+@media only screen and (max-width: 960px) {
+  .project #hole rect:nth-of-type(2), .project #hole rect:nth-of-type(3), .project #hole rect:nth-of-type(4) {
+    x: 27.1% !important;
+    width: 72.8% !important; }
+  /* No JS overrides start */
+  .index #hole2 rect:nth-of-type(3) {
+    x: 22%;
+    y: 17.4%;
+    width: 56%;
+    height: 65.2%; }
+  /* No JS overrides end */
+  .index #hole rect:nth-of-type(3) {
+    x: 17.3%;
+    y: 22%;
+    width: 65.3%;
+    height: 56%; }
+  .project #hole rect:nth-of-type(3) {
+    y: 0% !important;
+    height: 100%; }
+  #hole rect:nth-of-type(2), #hole rect:nth-of-type(4) {
+    visibility: hidden; } }
